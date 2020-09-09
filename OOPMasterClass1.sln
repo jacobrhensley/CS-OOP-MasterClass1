@@ -1,0 +1,39 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Classes", "01.Classes", "{D93FBDA8-37BD-47CC-A3B9-FC48BBE6BCCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Abstraction", "02.Abstraction", "{3E9FEC43-83F6-4109-844B-812B27106677}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Encapsulation", "03.Encapsulation", "{F00A0CE9-87AB-4CCA-BC2F-BFDBCB1C9F08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.Inheritance", "04.Inheritance", "{DB42A6C4-A7D2-4C8D-94AD-AD7CA121D9FC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.Interfaces", "05.Interfaces", "{FFC51520-313B-4DAB-BAFB-2FB18877049A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Polymorphism", "06.Polymorphism", "{CA52CB81-1BE9-4973-B88B-C8BD5E3DE2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefiningClasses", "01.DefiningClasses\01.DefiningClasses.csproj", "{C525FDA9-CDC5-4800-B428-EEC5ED77E84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Constructors", "01.DefiningClasses\02.Constructors\02.Constructors.csproj", "{8BF9E087-07DF-4150-87AF-CC4A82043A35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C525FDA9-CDC5-4800-B428-EEC5ED77E84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C525FDA9-CDC5-4800-B428-EEC5ED77E84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C525FDA9-CDC5-4800-B428-EEC5ED77E84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C525FDA9-CDC5-4800-B428-EEC5ED77E84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF9E087-07DF-4150-87AF-CC4A82043A35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF9E087-07DF-4150-87AF-CC4A82043A35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF9E087-07DF-4150-87AF-CC4A82043A35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF9E087-07DF-4150-87AF-CC4A82043A35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C525FDA9-CDC5-4800-B428-EEC5ED77E84A} = {D93FBDA8-37BD-47CC-A3B9-FC48BBE6BCCF}
+		{8BF9E087-07DF-4150-87AF-CC4A82043A35} = {D93FBDA8-37BD-47CC-A3B9-FC48BBE6BCCF}
+	EndGlobalSection
+EndGlobal

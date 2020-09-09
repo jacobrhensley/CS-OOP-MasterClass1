@@ -1,0 +1,12 @@
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.csprojAssemblyReference.cache
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.AssemblyInfoInputs.cache
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.AssemblyInfo.cs
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.csproj.CoreCompileInputs.cache
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/bin/Debug/netcoreapp3.1/02.Constructors.deps.json
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/bin/Debug/netcoreapp3.1/02.Constructors.runtimeconfig.json
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/bin/Debug/netcoreapp3.1/02.Constructors.runtimeconfig.dev.json
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/bin/Debug/netcoreapp3.1/02.Constructors.dll
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/bin/Debug/netcoreapp3.1/02.Constructors.pdb
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.dll
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.pdb
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/02.Constructors/obj/Debug/netcoreapp3.1/02.Constructors.genruntimeconfig.cache
