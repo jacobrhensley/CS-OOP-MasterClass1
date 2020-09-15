@@ -1,0 +1,4 @@
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/03.Methods/obj/Debug/netcoreapp3.1/03.Methods.csprojAssemblyReference.cache
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/03.Methods/obj/Debug/netcoreapp3.1/03.Methods.AssemblyInfoInputs.cache
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/03.Methods/obj/Debug/netcoreapp3.1/03.Methods.AssemblyInfo.cs
+/Users/jacobrhensley/git/OOPMasterClass1/01.DefiningClasses/03.Methods/obj/Debug/netcoreapp3.1/03.Methods.csproj.CoreCompileInputs.cache

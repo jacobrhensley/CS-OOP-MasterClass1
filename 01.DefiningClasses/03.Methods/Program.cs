@@ -6,7 +6,14 @@ namespace _03.Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Customer customer = new Customer();
+
+            customer.AddAccount(new Account() { Name = "A1", Balance = 10.00 });
+            customer.AddAccount(new Account() { Name = "A2", Balance = 20.00 });
+            customer.AddAccount(new Account() { Name = "A3", Balance = 30.00 });
+
+            Account largest Account = customer.GetLargestAccount();
+            Console.WriteLine($"{largestAccount.Name} has a balance of : {largestAccount.Balance}");
         }
     }
 }
